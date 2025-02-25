@@ -2,4 +2,47 @@ body {
   width: 100%;
   height: 100%;
   margin: 0;
+  text-align:block;
+}
+header{
+  text-align: center;
+  color:brown
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+  nav{
+    display:inline-flex;
+    color: blue;
+    background-color:grey;
+    text-align:
+    padding-right: 10px,10px;
+    text-decoration :none;
+}
+
+figcaption{
+  text-align: center;
+
+}
+#p{
+  width: 800px;
+  height: 800px;
+  text-align:center;
+  display:block;
+}
+
+h3{
+  text-align:left;
+  
+}
+div{
+  background-color: red;
+display:inline-block;
+float:left;
+width:25%;
+text-decoration: none;
 }
